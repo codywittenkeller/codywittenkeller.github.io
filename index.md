@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [US Accident Hotspots](/sample_page)
-<img src="images/hotspots.png alt="drawing" width="200"/>
+<img src="images/hotspots.png" alt="drawing" width="200"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
