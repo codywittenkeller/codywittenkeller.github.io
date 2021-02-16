@@ -2,9 +2,8 @@ title: Cody Wittenkeller # your name (or website title) here
 logo: "/images/cody-wittenkeller.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Transportation Enthusiast / Data Scientist 
-  <br><br>
-  Second description 
+
   <br><br>
   <a href="https://www.linkedin.com/in/codywittenkeller/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.kaggle.com/codywittenkeller/competitions">View My Kaggle Profile</a> 
 theme: jekyll-theme-minimal
