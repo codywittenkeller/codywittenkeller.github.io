@@ -4,7 +4,7 @@
 
 ### Transportation
 
-[US Accident Hotspots](/sample_page)
+[US Accident Hotspots](/us_accidents_hotspots)
 <img src="images/hotspots.png" alt="drawing" width="600"/>
 
 ---
